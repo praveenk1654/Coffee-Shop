@@ -1,7 +1,6 @@
 
 # Coffee Shop Landing Page
 
-https://venumadhavkolla.github.io/Coffee-Shop-Landing-Page/
 
 ### Prerequisites
 
